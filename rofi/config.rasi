@@ -1,0 +1,7 @@
+//@theme "/usr/share/rofi/themes/Monokai.rasi"
+//@theme "/usr/share/rofi/themes/solarized.rasi"
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+//@theme "/home/maxie/.local/share/rofi/themes/launchpad.rasi"
+//@theme "/home/maxie/.local/share/rofi/themes/squared-everforest.rasi"
+//@theme "/home/maxie/.local/share/rofi/themes/squared-material-red.rasi"
+@theme "/home/maxie/.local/share/rofi/themes/squared-nord.rasi"
