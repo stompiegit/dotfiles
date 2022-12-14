@@ -11,7 +11,7 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-neofetch
+pfetch
 eval "$(starship init zsh)"
 
 #Pywal Stuff
