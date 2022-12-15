@@ -6,6 +6,7 @@ exec polybar status &
 exec nitrogen --restore &
 exec picom &
 setxkbmap de
+xbindkeys
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
