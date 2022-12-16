@@ -8,7 +8,7 @@ These dotfiles require Nerd Fonts and JetBrains Mono to work properly:
 sudo pacman -Syu && sudo pacman -S --needed ttf-nerd-fonts-symbols-2048-em ttf-nerd-fonts-symbols-2048-em-mono ttf-nerd-fonts-symbols-common ttf-jetbrains-mono
 ```
 
-You also need an [Open Weather Map API Token.]() Make sure to place it in your `$HOME` directory
+You also need an [Open Weather Map API Token.](https://openweathermap.org/api_keys) Make sure to place it in your `$HOME` directory
 
 ---
 ### Installation:
