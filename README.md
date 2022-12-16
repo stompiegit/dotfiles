@@ -20,11 +20,11 @@ git clone https://stompiegit/dotfiles
 
 and link all files to their respective directories in `~/.config/`:
 ```bash
-ln <directory/configfile> ~/.config/directory/configfile
+ln <directory>/<configfile> ~/.config/<directory>/<configfile>
 ```
 
 *Congrats! You now have an honestly pretty mid rice on your computer!*
 
 ---
-##### P.S.:
-#### Duckulus kriegt so viele Frauen dass ich mich manchmal wunder wenn ich welche auf der Straße sehe
+## P.S.:
+## Duckulus kriegt so viele Frauen dass ich mich manchmal wunder wenn ich welche auf der Straße sehe
