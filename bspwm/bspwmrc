@@ -1,6 +1,5 @@
 #! /bin/sh
 
-exec polybar top &
 exec polybar workspaces &
 exec polybar status &
 exec nitrogen --restore &
