@@ -23,12 +23,12 @@ UNITS="metric"
 
 # Color Settings ______________________________________________________________
 
-COLOR_CLOUD="#594D5B"
+COLOR_CLOUD="#c6c6c8"
 COLOR_THUNDER="#d3b987"
 COLOR_LIGHT_RAIN="#73cef4"
 COLOR_HEAVY_RAIN="#b3deef"
 COLOR_SNOW="#FFFFFF"
-COLOR_FOG="#594D5B"
+COLOR_FOG="#c6c6c8"
 COLOR_TORNADO="#d3b987"
 COLOR_SUN="#ffc24b"
 COLOR_MOON="#FFFFFF"

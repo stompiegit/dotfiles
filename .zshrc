@@ -14,6 +14,8 @@ compinit
 nitch
 eval "$(starship init zsh)"
 
+alias mpv='DRI_PRIME=1 mpv'
+
 #Pywal Stuff
 #(cat ~/.cache/wal/sequences &)
 #cat ~/.cache/wal/sequences
