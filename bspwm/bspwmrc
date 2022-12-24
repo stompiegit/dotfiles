@@ -4,6 +4,7 @@ exec polybar workspaces &
 exec polybar status &
 exec nitrogen --restore &
 exec picom &
+exec xbanish &
 setxkbmap de
 xbindkeys
 
