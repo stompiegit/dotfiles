@@ -1,4 +1,4 @@
-# Stompie's Dotfiles for Arch/Parabola Linux
+# Stompie's Dotfiles for Arch Linux
 >   nord-ish dotfiles. pretty cool imo
 ---
 ### Dependencies
@@ -15,12 +15,12 @@ You also need an [Open Weather Map API Token.](https://openweathermap.org/api_ke
 
 You just clone the thing:
 ```bash
-git clone https://stompiegit/dotfiles
+git clone https://github.com/stompiegit/dotfiles
 ```
 
 and link all files to their respective directories in `~/.config/`:
 ```bash
-ln <directory>/<configfile> ~/.config/<directory>/<configfile>
+ln /path/to/configfile ~/.config/path/to/configfile
 ```
 
 *Congrats! You now have an honestly pretty mid rice on your computer!*

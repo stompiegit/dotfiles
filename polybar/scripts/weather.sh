@@ -51,7 +51,7 @@ TEMP_FONT_CODE=1
 # Wind settings _______________________________________________________________
 
 # Display info about the wind or not. yes/no
-DISPLAY_WIND="yes"
+DISPLAY_WIND="no"
 
 # Show beaufort level in windicon
 BEAUFORTICON="yes"
